@@ -1,6 +1,5 @@
 # Project Title
-
-This project is built using [Create React App](https://github.com/facebook/create-react-app), a modern way to bootstrap React applications with zero configuration.
+Smart Diet Companion– Serverless Web Platform for Nutrition Tracking
 
 ## Project Overview
 
@@ -42,15 +41,8 @@ Builds the project for production to the `build` folder.
 #### `npm run eject`
 - **Warning:** This is irreversible. Ejects all configurations into your project for full customization.
 
-## Learn More
-
-- [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)
-- [React Official Documentation](https://reactjs.org/)
-
-## Notes on Updates
-
-For future updates, consider upgrading dependencies periodically and reading the official roadmap for Create React App.
 
 ---
 
 This README provides an essential, up-to-date overview suitable for new and experienced developers engaging with React projects.
+
